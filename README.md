@@ -1,6 +1,6 @@
 ### Hi there, I'm Nilay 👋
 
-- 💻 I'm a Junior Android Developer
+- 📱 I'm an Junior Android Developer
 - 📒 I'm an Android Bootcamp student, which is being held in cooperation with Yemeksepeti, Kodluyoruz and Patika.dev
 - 🎓 I just graduated from the Computer Engineering department 
 - 🌱 I'm currently learning on developing professional mobile applications
