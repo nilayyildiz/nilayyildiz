@@ -1,9 +1,7 @@
 ### Hi there, I'm Nilay 👋
 
-- 📱 I'm an Android Developer
+- 💻 I am an Android Developer at Delivery Hero
 - 🎓 I just graduated from the Computer Engineering department
-- 📒 I'm an Android Bootcamp student, which is being held in cooperation with Yemeksepeti, Kodluyoruz and Patika.dev 
-- 🌱 I'm currently learning Kotlin, ReactJS
 - 📫 How to reach me: 1nilay.yildiz@gmail.com 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilayyildiz&show_icons=true&theme=tokyonight)
