@@ -1,6 +1,6 @@
 ### Hi there, I'm Nilay 👋
 
-- 💻 I am an Android Developer at Delivery Hero
+- 💻 I am an Android Engineer at Hepsiburada
 - 📚 I study on my master's degree in the field of AI
 - 📫 How to reach me: 1nilay.yildiz@gmail.com 
 
