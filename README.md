@@ -1,7 +1,7 @@
 ### Hi there, I'm Nilay 👋
 
-- 💻 I am an Android Engineer at Hepsiburada
-- 📚 I study on my master's degree in the field of AI
+- 💻 I am an Android Engineer
+- 📚 I have a bachelor's and a master's degree in the field of Computer Engineering
 - 📫 How to reach me: 1nilay.yildiz@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
